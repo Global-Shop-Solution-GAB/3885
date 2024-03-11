@@ -1,0 +1,3 @@
+CREATE TABLE "GCG_3885_Open_WO"(
+ "Job" VARCHAR(8),
+ "Suffix" VARCHAR(5));
